@@ -55,7 +55,6 @@ export default function Navbar({ themeToggler, theme }) {
                     <hr />
                     <li>Info</li>
                     <hr />
-                    <li>Contact</li>
                 </DropDownNavList>
             </DropDownNav>
         }
