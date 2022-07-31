@@ -21,8 +21,6 @@
 
         npm i styled-components
 
-        npm i emailjs-com
-
 #
 
 ## by William Wong
